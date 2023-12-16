@@ -1,0 +1,8 @@
+out
+.idea
+*.iml
+.ipynb_checkpoints
+.venv
+venv
+target
+.DS_Store
